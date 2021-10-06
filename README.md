@@ -7,16 +7,16 @@ Simple Quiz Application
 <h3>
 This is my home page.
 </h3>
-<image src="screen1.jpeg" hight="500" width="500">
+<image src="screen1.png" hight="500" width="500">
 <hr>
 <h3>
 Here you Quiz Start
 </h3>
-<image src="screen2.jpeg" hight="500" width="500">
+<image src="screen2.png" hight="500" width="500">
 <hr>
   <h3>see your score here
 </h3>
-<image src="screen3.jpeg" hight="500" width="500">
+<image src="screen3.png" hight="500" width="500">
   
  <br>
 <h3>
